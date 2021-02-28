@@ -62,10 +62,11 @@ sections:
       - title: Adapts to your changing needs
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Built in automation studio allows for the automation processes to be
+          adapted to the changing needs. Using RPA and next gen data pipeline
+          technologies brings in flexiblity to adapt to changing processes or
+          infrastructure.
         actions:
           - label: Learn More
             url: /features
