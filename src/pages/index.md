@@ -59,7 +59,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Fits into your process
+      - title: Adapts to your changing needs
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
