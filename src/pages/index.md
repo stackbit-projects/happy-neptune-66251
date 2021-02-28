@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Automations Ai - Automate your invoice processing
-meta_description: 'Automate invoice processing. '
+meta_description: Automate invoice processing using arit
 template: landing
 ---
