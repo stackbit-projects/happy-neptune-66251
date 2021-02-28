@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: 'Automations Ai '
+meta_title: Automations Ai - Automate your invoice processing
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
