@@ -15,9 +15,7 @@ sections:
     type: section_features
     background: gray
     title: Invoice Automation
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Automate invoice processing the way you would like to do it
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
