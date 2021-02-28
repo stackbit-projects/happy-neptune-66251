@@ -6,9 +6,12 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Automate your invoice processing
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Just in time invoice processing can help your cash flow. Flexibility
+      around modifying payment cycles. Conslidate payments to make a combined
+      payment. Leverage supplier discountings. Leverage overdrafts. All this and
+      much more is possible with our data driven automation. Make intelligent
+      data decisions.
     actions:
       - label: Learn More
         url: /features
