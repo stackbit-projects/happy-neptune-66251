@@ -20,10 +20,14 @@ sections:
       - title: Automated invoice processing
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          *   Act with integrity and confidence
+
+          *   Enable continous business innovation
+
+          *   Improved efficiency
+
+          *   Great experience from suppliers to internal departments.
         actions:
           - label: Learn More
             url: /features
