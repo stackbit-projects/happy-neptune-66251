@@ -38,8 +38,12 @@ sections:
       - title: Automate without losing control
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >+
-          *   Real time dashboards
+        content: >
+          *   Just in time processing for cash flows, discounting and over
+          drafts.
+
+
+          *   Fully configurable real time dashboards
 
 
           *   Approval and rejection flows with human intervention where
@@ -48,7 +52,6 @@ sections:
 
           *   Improved communication with all stake holders with real time
           notifications.
-
         actions:
           - label: Learn More
             url: /features
