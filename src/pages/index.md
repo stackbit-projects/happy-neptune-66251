@@ -15,7 +15,7 @@ sections:
     type: section_features
     background: gray
     title: Invoice Automation
-    subtitle: Automate invoice processing the way you would like to do it
+    subtitle: Seamlessly automate invoice processing across all your stake holders
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
