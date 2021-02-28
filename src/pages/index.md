@@ -6,12 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Automate Data Decisions
-    content: >
-      Just in time invoice processing can help your cash flow. Flexibility
-      around modifying payment cycles. Conslidate payments to make a combined
-      payment. Leverage supplier discountings. Leverage overdrafts. All this and
-      much more is possible with our data driven automation. Make intelligent
-      data decisions.
+    content: |
+      The intelligent corporation takes data driven decisions quickly
     actions:
       - label: Learn More
         url: /features
