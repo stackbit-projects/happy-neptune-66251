@@ -102,6 +102,6 @@ sections:
 meta_title: Automations Ai - Automate your invoice processing
 meta_description: >-
   Automate your invoice processing with ease, you don't need to change your
-  processes. Our systems ada 
+  processes. Our systems adapt to your processes and help improve them. 
 template: landing
 ---
