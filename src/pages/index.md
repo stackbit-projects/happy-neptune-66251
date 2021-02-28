@@ -17,7 +17,7 @@ sections:
     title: Invoice Automation
     subtitle: Seamlessly automate invoice processing across all your stake holders
     features:
-      - title: The Best Feature of Your Services
+      - title: Automated invoice processing
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
