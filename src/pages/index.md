@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Invoice Automation
+    title: Automate Data Decisions
     content: >
       Just in time invoice processing can help your cash flow. Flexibility
       around modifying payment cycles. Conslidate payments to make a combined
